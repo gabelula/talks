@@ -1,0 +1,23 @@
+# Hack Hackers Berlin
+
+## Presentation Setup
+
+1. Install dependencies
+
+```
+$ npm install
+```
+
+2. Serve the presentation and monitor source files for changes
+
+```
+$ npm start
+```
+
+3. Open http://localhost:8000 to view your presentation
+
+You can change the port by using npm start -- --port=8001.
+
+```
+Note: this presentation is using [reveal.js](https://revealjs.com/#/).
+```
